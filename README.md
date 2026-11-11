@@ -10,7 +10,6 @@ This project studies how graph data can be represented with compact discrete cod
 
 - [Medium article](https://medium.com/@vanshmaheshbhai.virani/when-graphs-learn-to-speak-in-tokens-036085512422)
 - [Presentation deck](./qgr-slides.pptx)
-- [Animation-ready architecture sequence](./qgr-architecture-animation.pptx)
 - YouTube video: **REPLACE THIS TEXT WITH THE PUBLIC YOUTUBE LINK**
 - SlideShare link: **Unable to upload; presentation is included in this public GitHub directory**
 - Approved topic spreadsheet: **REPLACE THIS TEXT WITH THE SPREADSHEET LINK**
